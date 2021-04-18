@@ -1,0 +1,10 @@
+C:\Users\Hilal\source\repos\Final Projesi - 1\Final Projesi - 1\bin\Debug\Final Projesi - 1.exe.config
+C:\Users\Hilal\source\repos\Final Projesi - 1\Final Projesi - 1\bin\Debug\Final Projesi - 1.exe
+C:\Users\Hilal\source\repos\Final Projesi - 1\Final Projesi - 1\bin\Debug\Final Projesi - 1.pdb
+C:\Users\Hilal\source\repos\Final Projesi - 1\Final Projesi - 1\obj\Debug\Final Projesi - 1.csprojAssemblyReference.cache
+C:\Users\Hilal\source\repos\Final Projesi - 1\Final Projesi - 1\obj\Debug\Final_Projesi___1.Form1.resources
+C:\Users\Hilal\source\repos\Final Projesi - 1\Final Projesi - 1\obj\Debug\Final_Projesi___1.Properties.Resources.resources
+C:\Users\Hilal\source\repos\Final Projesi - 1\Final Projesi - 1\obj\Debug\Final Projesi - 1.csproj.GenerateResource.cache
+C:\Users\Hilal\source\repos\Final Projesi - 1\Final Projesi - 1\obj\Debug\Final Projesi - 1.csproj.CoreCompileInputs.cache
+C:\Users\Hilal\source\repos\Final Projesi - 1\Final Projesi - 1\obj\Debug\Final Projesi - 1.exe
+C:\Users\Hilal\source\repos\Final Projesi - 1\Final Projesi - 1\obj\Debug\Final Projesi - 1.pdb
